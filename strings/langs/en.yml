@@ -165,7 +165,7 @@ str_2 : "➻ ᴠᴀʟɪᴅ sᴛʀᴇᴀᴍ ᴠᴇʀɪғɪᴇᴅ.\n\nᴘʀᴏᴄ�
 str_3 : "ғᴀɪʟᴇᴅ ᴛᴏ sᴛʀᴇᴀᴍ ʏᴏᴜᴛᴜʙᴇ ʟɪᴠᴇ sᴛʀᴇᴀᴍ, ɴᴏ ʟɪᴠᴇ ꜰᴏʀᴍᴀᴛ ꜰᴏᴜɴᴅ."
 
 ping_1 : "❖ {0} ɪs ᴘɪɴɢɪɴɢ..."
-ping_2 : "❖ Qᴜᴇᴇɴ ᴍᴜsɪᴄ ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ ⏤͟͟͞͞★\n\n━━━•❅•°ᴘɪɴɢ sᴛᴀᴛs°•❅•━━━\n\n╭✠╼━━━━━━❖━━━━━━━✠╮\n│● ᴘɪɴɢ  ➥ `{0}ᴍs`\n│● ᴜᴘᴛɪᴍᴇ ➥ `{2}`\n│● ʀᴀᴍ  ➥ `{3}`\n│● ᴄᴘᴜ ➥ `{4}`\n│● ᴅɪsᴋ ➥ `{5}`\n│● ᴘʏ-ᴛɢᴄᴀʟʟs ➥ `<code>{6}ᴍs</code>`\n╰✠╼━━━━━━❖━━━━━━━✠╯\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [Aisha ✘ 𝐌ᴜꜱɪᴄ](http://t.me/Aisha_Music_Robot)"
+ping_2 : "❖ Qᴜᴇᴇɴ ᴍᴜsɪᴄ ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ ⏤͟͟͞͞★\n\n━━━•❅•°ᴘɪɴɢ sᴛᴀᴛs°•❅•━━━\n\n╭✠╼━━━━━━❖━━━━━━━✠╮\n│● ᴘɪɴɢ  ➥ `{0}ᴍs`\n│● ᴜᴘᴛɪᴍᴇ ➥ `{2}`\n│● ʀᴀᴍ  ➥ `{3}`\n│● ᴄᴘᴜ ➥ `{4}`\n│● ᴅɪsᴋ ➥ `{5}`\n│● ᴘʏ-ᴛɢᴄᴀʟʟs ➥ `<code>{6}ᴍs</code>`\n╰✠╼━━━━━━❖━━━━━━━✠╯\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [ꪖ𝓲𝘴ꫝꪖ ✘ 𝙼𝚄𝚂𝙸𝙲](http://t.me/Aisha_Music_Robot)"
 
 queue_1 : "❖ ғᴇᴛᴄʜɪɴɢ ǫᴜᴇᴜᴇ...\n\n❖ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ..."
 queue_2 : "❖ ǫᴜᴇᴜᴇ ᴇᴍᴘᴛʏ."
@@ -176,8 +176,8 @@ queue_6 : "<b>❖ ᴅᴜʀᴀᴛɪᴏɴ ➥ </b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀ�
 queue_7 : "\n❖ ᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "❖ <b>{0} ᴘʟᴀʏᴇʀ</b>\n\n● <b>sᴛʀᴇᴀᴍɪɴɢ ➥ </b> {1}\n\n● <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ ➥ </b> {2}\n● <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➥ </b> {3}\n{4}"
 
-stream_1 : "<b>❖ Aisha ᴍᴜsɪᴄ ᴏɴ sᴛʀᴇᴀᴍɪɴɢ ⏤͟͟͞͞★</b>\n\n<b>● ᴛɪᴛʟᴇ ➥</b><a href={0}>{1}</a>\n<b>● ᴅᴜʀᴀᴛɪᴏɴ ➥</b> {2} ᴍɪɴᴜᴛᴇs\n<b>● ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➥</b> {3}\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [Aisha ✘ 𝐌ᴜꜱɪᴄ](http://t.me/Aisha_Music_Robot)"
-stream_2 : "<b>❖ Aisha ᴍᴜsɪᴄ ᴏɴ sᴛʀᴇᴀᴍɪɴɢ ⏤͟͟͞͞★</b>\n\n<b>● sᴛʀᴇᴀᴍ ᴛʏᴘᴇ ➥</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>● ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➥</b> {0}\n\n● ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [Aisha ✘ 𝐌ᴜꜱɪᴄ](http://t.me/Aisha_Music_Robot)"
+stream_1 : "<b>❖ ꪖ𝓲𝘴ꫝꪖ ✘ 𝙼𝚄𝚂𝙸𝙲 ᴏɴ sᴛʀᴇᴀᴍɪɴɢ ⏤͟͟͞͞★</b>\n\n<b>● ᴛɪᴛʟᴇ ➥</b><a href={0}>{1}</a>\n<b>● ᴅᴜʀᴀᴛɪᴏɴ ➥</b> {2} ᴍɪɴᴜᴛᴇs\n<b>● ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➥</b> {3}\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [Aisha ✘ 𝐌ᴜꜱɪᴄ](http://t.me/Aisha_Music_Robot)"
+stream_2 : "<b>❖ ꪖ𝓲𝘴ꫝꪖ ✘ 𝙼𝚄𝚂𝙸𝙲˼ ♪,•⁠͢ᴏɴ sᴛʀᴇᴀᴍɪɴɢ ⏤͟͟͞͞★</b>\n\n<b>● sᴛʀᴇᴀᴍ ᴛʏᴘᴇ ➥</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>● ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➥</b> {0}\n\n● ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [Aisha ✘ 𝐌ᴜꜱɪᴄ](http://t.me/Aisha_Music_Robot)"
 
 CLOSE_BUTTON  : "ᴄʟᴏsᴇ"
 BACK_BUTTON : "ʙᴀᴄᴋ"
@@ -186,7 +186,8 @@ S_B_1 : "ᴀᴅᴅ ᴍᴇ"
 S_B_2 : "sᴜᴘᴘᴏʀᴛ"
 S_B_3 : "ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ"
 S_B_4 : "ʜᴇʟᴘ ᴄᴏᴍᴍᴀɴᴅs"
-S_B_5 : "KALIN BHAIYA"
+S_B_5 : "˹ꪖ𝓲𝘴ꫝꪖ˼ ♡゙ ᴍ ᴜ s ɪ ᴄ
+"
 S_B_6 : "ᴜᴘᴅᴀᴛᴇ"
 S_B_7 : "ʀᴇᴘᴏ"
 S_B_8 : "ʏᴏᴜᴛᴜʙᴇ"
@@ -381,4 +382,4 @@ sug_23 : "You can check the queue of the musics.\n\nCommand: /queue"
 sug_24 : "You can check my owner and sudo users who manage me.\n\nCommand: /sudolist"
 sug_25 : "Bot has a feature called **Commands Delete Mode**. It deletes its executed commands automatically.\n\nEnable or disable deletemode from /settings [__Enabled by default__]"
 sug_26 : "You can change language of the bot to available languages for easy understanding.\n\nCommand: /language"
-sug_27 : "Bot has a feature called **Force Play**.\n\n**Force Play** stops the playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue.\n\nCommand: /playforce"
+sug_27 : "Bot has a feature called **Force Play**.\n\n**Force Play** stops the playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue.\n\nCommand: /
