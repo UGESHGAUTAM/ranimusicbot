@@ -67,7 +67,7 @@ def queue_back_markup(_, CPLAY):
 def aq_markup(_, chat_id):
     buttons = [
         [
-            InlineKeyboardButton(f"⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"http://t.me/Aisha_Music_Robot?startgroup=true"),
+            InlineKeyboardButton(f"⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"http://t.me/@VeenaMusic_bot?startgroup=true"),
         ],
         [   InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")
         ],
