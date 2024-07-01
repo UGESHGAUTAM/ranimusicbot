@@ -137,7 +137,7 @@ async def greet_group(_, member: ChatMemberUpdated):
 ┣ 𝟓 ➥ 𝐆ɪᴠᴇ  ʀᴇsᴘᴇᴄᴛ , ᴛᴀᴋᴇ  ʀᴇsᴘᴇᴄᴛ 
 ┗━━━━━━━━━━━━━━━━━      
 
-❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [ꪖ𝓲𝘴ꫝꪖ ✘ 𝙼𝚄𝚂𝙸𝙲](https://t.me/Aisha_Music_Robot)
+❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [˹ 𝐕ᴇᴇɴᴀ ✘ 𝐌ᴜꜱɪᴄ ˼ ♪](https://t.me/@VeenaMusic_bot)
 """,
             reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"https://t.me/Aisha_Music_Robot?startgroup=true")]])
         )
