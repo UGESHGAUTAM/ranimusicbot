@@ -35,15 +35,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/istkharalam62/ranimusicbot",
+    "https://github.com/UGESHGAUTAM/ranimusicbot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MUNNA_BHAIYA_CHAT_GRUP")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/THUNDER_NETWORKS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BOT_X_HUB_YADAV")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/friends_kiDuniya")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
